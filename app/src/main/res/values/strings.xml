@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Material3AdaptiveComposeTutorial</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="cart">Cart</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="profile">Profile</string>
+</resources>
