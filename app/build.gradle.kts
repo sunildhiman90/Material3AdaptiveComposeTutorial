@@ -71,5 +71,9 @@ dependencies {
     implementation(libs.androidx.compose.material3.adaptive)
     implementation(libs.androidx.compose.material3.navigation.suite)
 
+    //For ListDetailPaneScaffold
+    implementation(libs.androidx.material3.adaptive.layout)
+    implementation(libs.androidx.material3.adaptive.navigation)
+
 
 }
